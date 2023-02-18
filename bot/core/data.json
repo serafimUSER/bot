@@ -1,0 +1,63 @@
+{
+    "tasks": {
+        "0": {
+        "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias ullam provident veritatis, neque aperiam aut incidunt fuga, nisi aliquid assumenda voluptatibus! Magnam eaque officiis quia veritatis repellendus nesciunt blanditiis consequuntur!",
+        "tags": [
+            "Tag1",
+            "Tag2",
+            "Tag3"
+        ]
+        },
+        "1": {
+        "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias ullam provident veritatis, neque aperiam aut incidunt fuga, nisi aliquid assumenda voluptatibus! Magnam eaque officiis quia veritatis repellendus nesciunt blanditiis consequuntur!",
+        "tags": [
+            "Tag2",
+            "Tag4",
+            "Tag8"
+        ]
+        },
+        "2": {
+        "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias ullam provident veritatis, neque aperiam aut incidunt fuga, nisi aliquid assumenda voluptatibus! Magnam eaque officiis quia veritatis repellendus nesciunt blanditiis consequuntur!",
+        "tags": [
+            "Tag1",
+            "Tag5",
+            "Tag7"
+        ]
+        },
+        "3": {
+        "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias ullam provident veritatis, neque aperiam aut incidunt fuga, nisi aliquid assumenda voluptatibus! Magnam eaque officiis quia veritatis repellendus nesciunt blanditiis consequuntur!",
+        "tags": [
+            "Tag9",
+            "Tag4",
+            "Tag2"
+        ]
+        }
+    },
+    "modes": {
+      "Mode1": {
+        "tags": [
+          "Tag1",
+          "Tag9"
+        ]
+      },
+      "Mode2": {
+        "tags": [
+          "Tag2",
+          "Tag3"
+        ]
+      },
+      "Mode3": {
+        "tags": [
+          "Tag4",
+          "Tag2"
+        ]
+      },
+      "Mode4": {
+        "tags": [
+          "Tag8",
+          "Tag1"
+        ]
+      }
+    }
+  }
+  
